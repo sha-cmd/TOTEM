@@ -55,7 +55,7 @@ Vous pouvez télécharger et utiliser DataGrip à partir de l'adresse en [lien](
 [Lien](docs/exemples_de_prompts.md)
 ## Exemple de Debogage et Test
 
-[Partie texte](docs/debogage_et_tests.adoc)
+[Partie texte](docs/debogage_et_tests.md)
 
 [Partie code](docs/test_validation_email.ipynb)
 
